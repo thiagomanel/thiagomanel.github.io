@@ -1,0 +1,19 @@
+
+# Set remote Jekyll-theme.
+remote_theme: academic
+
+# Basic page information.
+title: "Thiago Emmanuel Pereira"
+#description: Optimist | Statistician-In-Training | Radio-Maker
+email: temmanuel@computacao.ufcg.edu.br
+github_username: thiagomanel
+#shortbio: "Optimist | Statistician-In-Training | Radio-Maker"
+
+#title_html: "<b>Jeroen</b> Mulder"
+
+# Include link to CV.
+#curriculum:
+#  url: /cv.pdf
+#
+
+
