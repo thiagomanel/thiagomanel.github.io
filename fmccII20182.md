@@ -19,7 +19,7 @@ Por email: temmanuel@computacao.ufcg.edu.br
 ## Avaliação
 Cada aluno será submetido a três avaliações parciais que compreendem cada uma a realização de uma prova em classe. Cada avaliação é precedida de dois minitestes contemplando parte do assunto dado.  A média de cada par de minitestes (caso feitos) corresponde à 30% de cada avaliação; a prova aos 70% restantes. Adicionalmente, teremos três listas de exercícios, uma para cada prova. Ao final da disciplina, até 1 (um) ponto poderá ser adicionado à média de acordo com o desempenho dos alunos nos exercícios.
 
-* [Primeira Lista](https://drive.google.com/file/d/1hjpjqb49pmVZif6PtqSxFO1eSlDgOE4z/view?usp=sharing)
+* [Primeira Lista - Métodos de prova](https://drive.google.com/file/d/1hjpjqb49pmVZif6PtqSxFO1eSlDgOE4z/view?usp=sharing)
 
 ## Ementa
 
