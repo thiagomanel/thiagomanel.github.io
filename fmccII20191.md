@@ -6,9 +6,9 @@ invisible: true
 
 ## Horários
 
-* 2 10:00-12:00 (CAA 407)
-* 2 15:00-16:00 (LSD, horário de atendimento. Envia email antes de vir.)
-* 5 08:00-10:00 (CAA 407)
+* 2 10:00-12:00 - aula - (CAA 407)
+* 2 15:00-16:00 - atendimento - (LSD) Por favor, envia email antes de vir.
+* 5 08:00-10:00 - aula - (CAA 407)
 
 ## Comunicação
 
