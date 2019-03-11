@@ -7,7 +7,7 @@ invisible: true
 ## Horários
 
 * 2 10:00-12:00 - aula - (CAA 407)
-* 2 15:00-16:00 - atendimento - (LSD) Por favor, envia email antes de vir.
+* 5 15:00-16:00 - atendimento - (LSD) Por favor, envia email antes de vir.
 * 5 08:00-10:00 - aula - (CAA 407)
 
 ## Comunicação
@@ -17,7 +17,7 @@ invisible: true
 Por email: temmanuel@computacao.ufcg.edu.br
 
 ## Avaliação
-Cada aluno será submetido a três avaliações parciais que compreendem cada uma a realização de uma prova em classe. Cada avaliação é precedida de um ou dois minitestes contemplando parte do assunto dado.  A média dos minitestes (caso feitos) corresponde à 30% de cada uma das três avaliações; a prova aos 70% restantes.
+Cada aluno será submetido a três avaliações parciais que compreendem cada uma a realização de uma prova em classe. Cada avaliação é precedida de um ou dois minitestes contemplando parte do assunto dado. A média dos minitestes pode adicionar um ponto extra na média final da disciplina.
 
 ## Ementa
 
