@@ -25,7 +25,7 @@ Técnicas de Demonstração Matemática; Indução e Recursividade; Aritmética 
 
 ## Conteúdo Programático
 
-[Plano de aula/Notas de aulas]()
+[Plano de aula/Notas de aulas](https://docs.google.com/spreadsheets/d/1xV07TJl-r4Y99wzB20PgYd-lZMMltwnU4JRZ6Af4H68/edit?usp=sharing)
 
 ## Referências bibliográficas
 
