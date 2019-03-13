@@ -5,7 +5,7 @@ layout: about
 * 2019.1
   * [Fundamentos Matemáticos para Ciência da Computação II](fmccII20191)
   * [Programação Concorrente](pc20191)
-  * Projeto de Sistemas Operacionais
+  * [Projeto de Sistemas Operacionais](prso20191)
 * 2018.2
   * [Fundamentos Matemáticos para Ciência da Computação II](fmccII20182)
   * Programação Concorrente
