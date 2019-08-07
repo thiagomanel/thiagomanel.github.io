@@ -2,6 +2,10 @@
 title: Teaching
 layout: about
 ---
+* 2019.2
+  * [Fundamentos Matemáticos para Ciência da Computação II](fmccII20192)
+  * [Programação Concorrente](pc20192)
+  * [Projeto de Sistemas Operacionais](prso20192)
 * 2019.1
   * [Fundamentos Matemáticos para Ciência da Computação II](fmccII20191)
   * [Programação Concorrente](pc20191)
