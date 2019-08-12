@@ -41,6 +41,8 @@ Técnicas de Demonstração Matemática; Indução e Recursividade; Aritmética 
 
 [Plano de aula/Notas de aulas](https://docs.google.com/spreadsheets/d/1fW-doteQ9jevUfzmMr6Y5htLoSvMI3CMTonmYhfzWZ8/edit?usp=sharing)
 
+[Banco de exercícios](https://www.overleaf.com/read/sfdncvtbydst)
+
 ## Referências bibliográficas
 
 * Keneth H. Rosen. Discrete Mathematics and Its Applications. Sexta Edição. McGRAW-HILL International Edition, 2007
