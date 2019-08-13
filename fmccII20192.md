@@ -14,9 +14,9 @@ invisible: true
 * Professor 3 14:00-15:00 -  (LSD) Por favor, envia email antes de vir.
 * Ítallo 2 13:00 - 14:00
 * Wellisson Gomes 2 14:30 - 16:00
-* Cecília 3 8:30 - 10:00
-* Beatriz Alice 4 14:00 - 15:30
+* Beatriz Alice 4 16:00 - 17:30
 * Gustavo Campos 5 14:30 - 16:00
+* Cecília 5 16:00 - 17:30
 * Caroliny Silva 6 14:00 - 15:30
 
 ## Comunicação
