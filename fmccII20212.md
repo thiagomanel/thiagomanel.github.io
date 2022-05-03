@@ -11,29 +11,24 @@ invisible: true
 
 ## Horários de atendimento
 
-* Professor --  (LSD) Por favor, envia email antes de vir.
+* Professor - Horário (a definir) - (LSD) Por favor, envia email antes de vir.
 
 ## Comunicação
 
 Para se juntar ao slack da disciplina, entrar em contato com o professor através do email temmanuel@computacao.ufcg.edu.br
 
 ## Avaliação
-Haverá dois tipos de avaliação: provas e mini-testes. Teremos três provas de igual peso. Os mini-testes serão também divididos em dois tipos: individual e em dupla. Em ambos os tipos, é possível consultar material escrito (livros ou anotações). Os mini-testes individuais terão duração de 30min. Os mini-testes em dupla, 2h. A média dos mini-testes, em caso de pontuação máxima, podem acrescentar 1.5 pontos extra na média final da disciplina.
-
-## Acompanhamento das atividades
-Os alunos receberão comentários individualizados sobre as respostas dos mini-testes realizados. Os alunos serão dividos em grupos. Cada grupo de alunos será acompanhado por um assistente ao longo da disciplina.
-
-[Planilha de acompanhamento]()
+Haverá dois tipos de avaliação: provas e mini-testes. Teremos três provas de igual peso. Os mini-testes serão também divididos em dois tipos: individual e em dupla. Em ambos os tipos, é possível consultar material escrito (livros ou anotações). A duração dos mini-testes será definida de maneira ad-hoc. A média dos mini-testes, em caso de pontuação máxima, podem acrescentar 1.5 pontos extra na média final da disciplina.
 
 ## Ementa
 
-Técnicas de Demonstração Matemática; Indução e Recursividade; Aritmética Modular; Divisibilidade; Inteiros e Números Primos; Aplicações da Teoria dos Números; Noções de Álgebra Vetorial; Grupos; Anéis, Corpos e Polinômios; Detecção e Correção de Erros; Funções Geradoras.
+Técnicas de Demonstração Matemática; Indução e Recursividade; Aritmética Modular; Divisibilidade; Inteiros e Números Primos; Aplicações da Teoria dos Números; Álgebra Abstrata.
 
 ## Conteúdo Programático
 
 [Plano de aula/Notas de aulas]()
 
-[Banco de exercícios](https://www.overleaf.com/read/sfdncvtbydst)
+[Banco de exercícios](https://www.overleaf.com/project/5b8d2a7eb0533c4b9b7febff)
 
 ## Referências bibliográficas
 
