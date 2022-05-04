@@ -26,9 +26,9 @@ Técnicas de Demonstração Matemática; Indução e Recursividade; Aritmética 
 
 ## Conteúdo Programático
 
-[Plano de aula/Notas de aulas](https://docs.google.com/spreadsheets/d/1m9Dz6x7a1J3fWkj5lwHxLWyKBLspq7MhenclDKhpwZM/edit?usp=sharing)
+* [Plano de aula/Notas de aulas](https://docs.google.com/spreadsheets/d/1m9Dz6x7a1J3fWkj5lwHxLWyKBLspq7MhenclDKhpwZM/edit?usp=sharing)
 
-[Banco de exercícios](https://www.overleaf.com/project/5b8d2a7eb0533c4b9b7febff)
+* [Banco de exercícios](https://www.overleaf.com/project/5b8d2a7eb0533c4b9b7febff)
 
 ## Referências bibliográficas
 
