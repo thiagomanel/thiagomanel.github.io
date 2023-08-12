@@ -2,6 +2,9 @@
 title: Teaching
 layout: about
 ---
+* 2023.1
+  * [Programação concorrente](pc20231)
+* ...
 * 2021.2
   * [Fundamentos Matemáticos para Ciência da Computação II](fmccII20212)
 * 2020.1
