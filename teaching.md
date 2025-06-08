@@ -2,6 +2,9 @@
 title: Teaching
 layout: about
 ---
+* 2025.1
+  * [Programação concorrente](pc20251)
+  * [Sistemas Operacionais](so202521)
 * 2024.2
   * [Programação concorrente](pc20242)
   * [Sistemas Operacionais](so20242)
