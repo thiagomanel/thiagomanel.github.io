@@ -2,6 +2,9 @@
 title: Teaching
 layout: about
 ---
+* 2026.1
+  * [Administração de Sistemas](sysadmin20261)
+  * [Sistemas Operacionais](so20261)
 * 2025.2
   * [Programação concorrente](pc20252)
   * [Sistemas Operacionais](so20252)
