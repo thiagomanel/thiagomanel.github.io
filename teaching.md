@@ -2,6 +2,9 @@
 title: Teaching
 layout: about
 ---
+* 2026.2
+  * [Projeto de Sistemas Operacionais](prso20261)
+  * [Sistemas Operacionais](so20262)
 * 2026.1
   * [Administração de Sistemas](sysadmin20261)
   * [Sistemas Operacionais](so20261)
